@@ -14,7 +14,7 @@ username/email: `username@gmail.com`
 
 password: `password`
 
-User config file under:  `src/app/assets/users.json`
+User profile file under:  `src/app/assets/users.json`
 
 ## Code scaffolding
 
