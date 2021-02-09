@@ -1,0 +1,9 @@
+.main-div  mat-card{
+    padding: 0px;
+}
+
+.align-center{
+    text-align: center;
+    padding-bottom: 2rem;
+    padding-top: 3rem;
+}
